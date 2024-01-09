@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 import { argv } from 'process';
-import randomColor from 'randomColor';
+import randomColor from 'randomcolor';
 
 function generateColor(color) {
   const block = `

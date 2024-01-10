@@ -1,5 +1,5 @@
+import { argv } from 'node:process';
 import chalk from 'chalk';
-import { argv } from 'process';
 import randomColor from 'randomcolor';
 
 function generateColor(color) {
